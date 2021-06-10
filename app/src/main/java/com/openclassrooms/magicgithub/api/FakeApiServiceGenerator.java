@@ -17,8 +17,8 @@ public abstract class FakeApiServiceGenerator {
     public static List<User> FAKE_USERS = Arrays.asList(
             new User("001", "Jake", "https://avatars.githubusercontent.com/z"),
             new User("002", "Paul", "https://avatars.githubusercontent.com/az"),
-            new User("003", "Phil", "https://avatars.githubusercontent.com/u/84316014?v=4"),
-            new User("004", "Guillaume", "https://avatars.githubusercontent.com/yaz"),
+            new User("003", "Phil", "https://avatars.githubusercontent.com/yaz"),
+            new User("004", "Guillaume", "https://avatars.githubusercontent.com/u/84316014?v=4"),
             new User("005", "Francis", "https://avatars.githubusercontent.com/t"),
             new User("006", "George", "https://avatars.githubusercontent.com/paq"),
             new User("007", "Louis", "https://avatars.githubusercontent.com/p"),
